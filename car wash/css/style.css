@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=McLaren&display=swap);
+
+@import url("compenent/container.css");
+
+@import url("compenent/avatar.css");
+
+@import url("compenent/button.css");
+
+@import url("compenent/banner.css");
+
+@import url("compenent/card.css");
+
+
+h1 {
+	font-size: 70px;
+	color: #6807f9;
+	font-family: 'McLaren', cursive;
+	font-weight: bold;
+}
+
+h2 {
+	color: #9852f9;
+	font-family: 'McLaren', cursive;
+}
+
+p {
+	font-color: #ffd739;
+	font-family: 'McLaren', cursive;
+}
+
+a {
+	margin-top: 20px;
+	text-decoration: none;
+}
